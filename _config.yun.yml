@@ -1,0 +1,140 @@
+﻿favicon: /C.png
+
+social:
+  - name: GitHub
+    link: https://github.com/Cccc-owo
+    icon: icon-github-line
+    color: "#181717"
+  - name: E-Mail
+    link: mailto:4hhhhfor@gmail.com
+    icon: icon-mail-line
+    color: "#8E71C1"
+
+banner:
+  enable: true
+  title:
+    - Cccc_
+    - 的
+    - 博客
+  border: true
+  cloud:
+    enable: true
+    color: "white"
+  go_down:
+    enable: true
+    icon: icon-arrow-down-s-line
+
+cursor:
+  enable: true
+  default: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/css/md-cursors/pointer.cur
+  pointer: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/css/md-cursors/link.cur
+  text: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/css/md-cursors/text.cur
+
+avatar:
+  enable: true
+  url: /C.png
+  rounded: true
+  opacity: 1
+  mickey_mouse: false
+  status:
+    enable: true
+    emoji: 👍
+    message: Nothing.
+
+menu:
+  home:
+    path: /
+    icon: icon-home-4-line
+  list:
+    - type: archives
+      path: /archives/
+      icon: icon-archive-line
+    - type: categories
+      path: /categories/
+      icon: icon-folder-2-line
+    - type: tags
+      path: /tags/
+      icon: icon-price-tag-3-line
+    # - path: https://www.yunyoujun.cn
+    #   icon: icon-cloud-line
+    #   count: 你猜
+  custom:
+
+pages:
+
+post_meta:
+  item_text: true
+  created_at: true
+  updated_at: true
+  categories: true
+  tags: true
+
+toc:
+  list_number: true
+  max_depth: 6
+  min_depth: 1
+  placeholder: 很遗憾，咱没写啥目录
+  collapse: true
+
+codeblock:
+  copy_btn: true
+
+creative_commons:
+  license: by-nc-sa
+  post: true
+  language: deed.zh
+  clipboard: false
+
+reward:
+  enable: false
+
+footer:
+  since: 2020
+  icon:
+    name: icon-cloud-line
+    animated: true
+    color: "#0078E7"
+    url: 
+    title: Oh,you are here.
+  powered:
+    enable: true
+  beian:
+    enable: false
+
+mourn:
+  enable: true
+  days: #month-day
+    - "4-4" #http://www.gov.cn/zhengce/content/2020-04/03/content_5498474.htm
+    - "9-18"
+
+comment:
+  enable: true
+  tips:
+    - 
+  candidates:
+#     - valine
+    - utterances
+
+utterances:
+  enable: true
+  repo: Cccc-owo/blog-related
+  issue-term: pathname
+  # label: comment
+  theme: github-light
+
+engine_search:
+  enable: false
+
+# search
+# https://github.com/wzpan/hexo-generator-search
+local_search:
+  enable: true
+
+wordcloud:
+  enable: true
+  height: 350
+
+wordcount:
+  enable: true
+  count: true
+  time: true
