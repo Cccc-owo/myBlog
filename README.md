@@ -20,6 +20,10 @@
 
 > ***npx hexo new <文章名>***
 
+***更新主题:***
+
+> ***npm i hexo-theme-yun@latest***
+
 ***生成文件:***
 
 > ***npx hexo g***
