@@ -26,27 +26,27 @@ subtitle:
 
 ### 注册（已有账号可跳过）
 
-![1](https://cdn.jsdelivr.net/gh/Cccc-owo/blogPic@master/CloudFlareWorkers反代网站/1.png)
+![1](https://cccc-drive.vercel.app/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/CloudFlareWorkers%E5%8F%8D%E4%BB%A3%E7%BD%91%E7%AB%99/1.png&raw=true)
 
 如图1，打开[注册页面](https://dash.cloudflare.com/sign-up)进行注册
 
 ### 配置Workers
 
-![2](https://cdn.jsdelivr.net/gh/Cccc-owo/blogPic@master/CloudFlareWorkers反代网站/2.png)
+![2](https://cccc-drive.vercel.app/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/CloudFlareWorkers%E5%8F%8D%E4%BB%A3%E7%BD%91%E7%AB%99/2.png&raw=true)
 
 如图2，单击登陆后主页右侧栏中的Workers
 
 进入之后，单击「计划」并选择「Free」计划。如图3。
 
-![3](https://cdn.jsdelivr.net/gh/Cccc-owo/blogPic@master/CloudFlareWorkers反代网站/3.png)
+![3](https://cccc-drive.vercel.app/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/CloudFlareWorkers%E5%8F%8D%E4%BB%A3%E7%BD%91%E7%AB%99/3.png&raw=true)
 
 接着新建一个 Workers 子域名，如图4。
 
-![4](https://cdn.jsdelivr.net/gh/Cccc-owo/blogPic@master/CloudFlareWorkers反代网站/4.png)
+![4](https://cccc-drive.vercel.app/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/CloudFlareWorkers%E5%8F%8D%E4%BB%A3%E7%BD%91%E7%AB%99/4.png&raw=true)
 
 搞定以上步骤后，回到Workers主页面，并单击创建Worker。如图5。
 
-![5](https://cdn.jsdelivr.net/gh/Cccc-owo/blogPic@master/CloudFlareWorkers反代网站/5.png)
+![5](https://cccc-drive.vercel.app/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/CloudFlareWorkers%E5%8F%8D%E4%BB%A3%E7%BD%91%E7%AB%99/5.png&raw=true)
 
 接着将如下代码复制入左边的脚本编辑处。
 
@@ -212,7 +212,7 @@ async function device_status(user_agent_info) {
 
 配置完成后，修改Worker名称，点击「保存并部署」。如图6。
 
-![6](https://cdn.jsdelivr.net/gh/Cccc-owo/blogPic@master/CloudFlareWorkers反代网站/6.png)
+![6](https://cccc-drive.vercel.app/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/CloudFlareWorkers%E5%8F%8D%E4%BB%A3%E7%BD%91%E7%AB%99/6.png&raw=true)
 
 这样就大功告成了，以后就可以随时随地谷歌一下了。
 
@@ -224,7 +224,7 @@ Demo:<https://google.youwant.workers.dev/>
 
 如图7
 
-![7](https://cdn.jsdelivr.net/gh/Cccc-owo/blogPic@master/CloudFlareWorkers反代网站/7.png)
+![7](https://cccc-drive.vercel.app/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/CloudFlareWorkers%E5%8F%8D%E4%BB%A3%E7%BD%91%E7%AB%99/7.png&raw=true)
 
 温馨提示：使用Worker反代的网站 **无法使用Cookies** ，简单来说就是搜索记录不会保存，账号无法登录。并且 **不要滥用** Worker代理!
 
