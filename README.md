@@ -24,6 +24,10 @@
 
 > ***npm i hexo-theme-yun@latest***
 
+***更新Hexo:***
+
+> ***npm install hexo@latest***
+
 ***生成文件:***
 
 > ***npx hexo g***
