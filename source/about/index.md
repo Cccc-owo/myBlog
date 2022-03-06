@@ -3,7 +3,7 @@ title: 关于
 type: "about"
 ---
 
-<img src="https://cdn.jsdelivr.net/gh/Cccc-owo/blogPic@master/avatar/Head_1024x.png" style="zoom:75%;" />
+<img src="https://cccc-drive.vercel.app/api/raw/?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/avatar/Head_1024x.png" style="zoom:75%;" />
 
 如你所见，[这个网站](https://cccc-blog.vercel.app)的搭建者。一个~~训练有素的~~学生，平时喜欢玩游戏~~阿伟，你怎么又在打电动~~，包括但不限于MineCraft、Europa Universalis IV。
 
@@ -24,12 +24,6 @@ type: "about"
 *//Steam社区打不开看[这篇文章](https://blog.cccc-owo.xyz/posts/c47e0b89/)*
 
 **QQ:3450014734**
-
----
-
-***自建MC服务器(Minecraft:Java Edition1.18.1):***
-
-~~Not for now~~
 
 ---
 
