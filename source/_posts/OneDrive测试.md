@@ -7,9 +7,9 @@ categories:
   - 技术
 abbrlink: 79470c60
 date: 2021-09-04 18:24:42
-subtitle:
+updated: 2022-03-25 18:24:42
 ---
 
 最近抽了点时间用微软的OneDrive搞了一个网盘，用于存储一些文件
 
-[网站在这里](https://od.cccc-owo.xyz/)
+[网站在这里](https://cccc-drive.vercel.app/)
