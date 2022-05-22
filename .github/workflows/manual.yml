@@ -26,6 +26,8 @@ jobs:
       run: npm update
     - name: Commit Changes
       run: |
+        git config --global user.email "net4hhhh@163.com"
+        git config --global user.name "Cccc-owo"
         git add -A
         git commit -m "Update dependencies by GitHub Actions"
     - name: GitHub Push
