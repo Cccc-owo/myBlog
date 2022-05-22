@@ -26,8 +26,8 @@ jobs:
       run: npm update
     - name: Commit Changes
       run: |
-        git config --global user.email "27856297+dependabot-preview[bot]@users.noreply.github.com"
-        git config --global user.name "github-actions[bot]"
+        git config --global user.email "net4hhhh@163.com"
+        git config --global user.name "Cccc-owo"
         git add -A
         git commit -m "Update dependencies by GitHub Actions"
     - name: GitHub Push
@@ -35,8 +35,8 @@ jobs:
   # uses: ad-m/github-push-action@40bf560936a8022e68a3c00e7d2abefaf01305a6
       uses: ad-m/github-push-action@v0.6.0
       with:
-       # Token for the repo. Can be passed in using $\{{ secrets.GITHUB_TOKEN }}
-        github_token: $\{{ secrets.GITHUB_TOKEN }}
+       # Token for the repo. Can be passed in using ${{ secrets.GITHUB_TOKEN }}
+        github_token: ${{ secrets.GITHUB_TOKEN }}
        # Destination branch to push changes
         branch: main # optional, default is master
        # Determines if force push is used
