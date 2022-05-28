@@ -1,4 +1,4 @@
-﻿favicon: /C.png
+favicon: /C.png
 
 social:
   - name: GitHub
@@ -114,11 +114,17 @@ comment:
   tips:
     - 
   candidates:
-#     - valine
-    - utterances
+     - waline
+#    - utterances
+
+waline:
+  enable: true
+  serverURL: https://c-blog-comment.vercel.app/
+  # visitor: true
+  comment: false
 
 utterances:
-  enable: true
+  enable: false
   repo: Cccc-owo/blog-related
   issue-term: pathname
   # label: comment
