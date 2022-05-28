@@ -4,6 +4,10 @@
 
 [在线管理](https://cccc-qexo.vercel.app/)
 
+***切换npm镜像源：***
+
+>***npm config set registry https://registry.npmmirror.com***
+
 ***Clone 到本地:***
 
 >***git clone git@github.com:Cccc-owo/Cccc-owo-blog.git --recurse-submodules***
