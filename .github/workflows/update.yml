@@ -24,7 +24,11 @@ jobs:
     - name: Install Dependencies
       run: npm install
     - name: Update Dependencies
-      run: npm update
+      run: |
+        npm install -g npm-check-updates
+        ncu -u
+        npm update
+        npm install
     - uses: fregante/setup-git-user@v1.1.0
     - name: Commit Changes & Push to Remote Branch
       run: |
