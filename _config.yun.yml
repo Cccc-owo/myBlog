@@ -146,3 +146,7 @@ wordcount:
   enable: true
   count: true
   time: true
+
+vendors:
+  # 以 '/' 结尾
+  host: 'https://npm.elemecdn.com/'
