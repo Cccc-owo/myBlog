@@ -1,5 +1,5 @@
 ---
-title: Install LineageOS on enchilada
+title: 在一加六上安装 Lineage OS
 tags:
   - 刷机
 categories:
@@ -10,6 +10,8 @@ abbrlink: 732f9bb
 date: 2022-07-20 19:19:13
 updated: 2022-07-20 19:19:13
 ---
+
+译者：Cccc_
 
 译自[Install LineageOS on enchilada](https://wiki.lineageos.org/devices/enchilada/install)
 
@@ -174,7 +176,7 @@ fastboot boot <recovery_filename>.img
 
 7. 当你成功安装了一切，点击屏幕左上方的后退箭头，然后点击 "Reboot system now"（立即重启系统）。
 
-> 注意：第一次启动通常不超过15分钟，这取决于设备的情况。如果需要更长的时间，你可能错过了一个步骤，否则请随时[寻求帮助](https://wiki.lineageos.org/devices/enchilada/install#get-assistance)。
+> 注意：第一次启动通常不超过15分钟，这取决于设备的情况。如果需要更长的时间，你可能错过了一个步骤，否则请随时[寻求帮助](https://cccc-blog.vercel.app/posts/732f9bb/#%E5%AF%BB%E6%B1%82%E5%B8%AE%E5%8A%A9)。
 
 ## 寻求帮助
 
