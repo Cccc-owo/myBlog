@@ -1,13 +1,15 @@
+mode: auto
+
 favicon: /C.png
 
 social:
   - name: GitHub
     link: https://github.com/Cccc-owo
-    icon: icon-github-line
+    icon: ri:github-line
     color: "#181717"
   - name: E-Mail
     link: mailto:4hhhhfor@gmail.com
-    icon: icon-mail-line
+    icon: ri:mail-line
     color: "#8E71C1"
 
 banner:
@@ -22,13 +24,19 @@ banner:
     color: "white"
   go_down:
     enable: true
-    icon: icon-arrow-down-s-line
+    icon: ri:arrow-down-s-line
+
+scrollreveal:
+  enable: true
+  targets:
+    - .post-card
+    - .markdown-body img
 
 cursor:
   enable: true
-  default: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/css/md-cursors/pointer.cur
-  pointer: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/css/md-cursors/link.cur
-  text: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/css/md-cursors/text.cur
+  default: https://cdn.yunyoujun.cn/css/md-cursors/pointer.cur
+  pointer: https://cdn.yunyoujun.cn/css/md-cursors/link.cur
+  text: https://cdn.yunyoujun.cn/css/md-cursors/text.cur
   
 medium_zoom: true
 
@@ -44,22 +52,6 @@ avatar:
     message: Nothing.
 
 menu:
-  home:
-    path: /
-    icon: icon-home-4-line
-  list:
-    - type: archives
-      path: /archives/
-      icon: icon-archive-line
-    - type: categories
-      path: /categories/
-      icon: icon-folder-2-line
-    - type: tags
-      path: /tags/
-      icon: icon-price-tag-3-line
-    # - path: https://www.yunyoujun.cn
-    #   icon: icon-cloud-line
-    #   count: 你猜
   custom:
 
 pages:
@@ -76,7 +68,7 @@ toc:
   max_depth: 6
   min_depth: 1
   placeholder: 很遗憾，咱没写啥目录
-  collapse: true
+  collapse: false
 
 codeblock:
   copy_btn: true
@@ -93,7 +85,7 @@ reward:
 footer:
   since: 2020
   icon:
-    name: icon-cloud-line
+    name: ri-ancient-gate-fill
     animated: true
     color: "#0078E7"
     url: 
@@ -150,3 +142,6 @@ wordcount:
 vendors:
   # 以 '/' 结尾
   host: 'https://npm.elemecdn.com/'
+  # 下方代表覆盖 waline CDN 为别的链接，默认不用修改
+  # waline:
+  #   css: '@waline/client@v2/dist/waline.css'
