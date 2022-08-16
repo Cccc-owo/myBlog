@@ -111,7 +111,7 @@ comment:
 
 waline:
   enable: true
-  serverURL: https://c-blog-comment.vercel.app/
+  serverURL: https://blog-chat.iscccc.eu.org/
   # visitor: true
   comment: false
 
