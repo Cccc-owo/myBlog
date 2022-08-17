@@ -25,6 +25,8 @@ updated: 2022-08-17 18:03:22
 
 **个人QQ频道：<https://qun.qq.com/qqweb/qunpro/share?inviteCode=1Waw6ne>**
 
+**Discord频道：<https://discord.gg/DDgkBsjaDJ> （不常用）**
+
 ---
 
 感谢你的到来
