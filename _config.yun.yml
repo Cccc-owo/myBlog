@@ -143,6 +143,12 @@ wordcount:
   count: true
   time: true
 
+google_analytics:
+  enable: true
+  id: G-0CM1PL8163
+
+baidu_push: true
+
 vendors:
   # 以 '/' 结尾
   host: 'https://npm.elemecdn.com/'
