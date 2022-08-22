@@ -7,7 +7,7 @@ description: Cccc_的小伙伴们
 comments: true
 links:
   - url: https://purefish.cn/
-    avatar: https://avatar.coolapk.com/data/001/77/69/17_avatar_middle.jpg
+    avatar: /links/icon/3630190350.webp
     name: 一条咸鱼与狗
     blog: 一条咸鱼与狗的博客
     desc: 心灵的伤口，是时间无法抹平的
