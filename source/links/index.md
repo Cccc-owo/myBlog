@@ -14,7 +14,7 @@ links:
     color: '#404040' # 代表色
     email: # 非必须
   - url: https://yunyoujun.cn
-    avatar: https://cdn.jsdelivr.net/gh/YunYouJun/yunyoujun.github.io/images/avatar.jpg
+    avatar: https://www.yunyoujun.cn/images/avatar.jpg
     name: 云游君
     blog: 云游君的小站
     desc: All at sea.
