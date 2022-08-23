@@ -26,7 +26,7 @@ updated: 2022-08-23 15:09:18
 
 ## 字体选择？
 
-> ParaTranz站长的小贴士
+> ParaTranz站长的小贴士：
 >
 > 建议选择 GBK 字符集的字体，可以从[方正字体](http://www.foundertype.com/)的官网上选择一款你喜欢的字体
 
