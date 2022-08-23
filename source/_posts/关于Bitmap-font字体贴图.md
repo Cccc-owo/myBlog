@@ -70,6 +70,10 @@ updated: 2022-08-23 15:09:18
 
 ![3](https://drive.iscccc.eu.org/api/raw/?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/bitmap-font/3.png)
 
+下图是我的 ```Color``` 设置（即阴影颜色）
+
+![color](https://drive.iscccc.eu.org/api/raw/?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/bitmap-font/color.png)
+
 这是 ```Grow radius``` 调为 3 的效果，阴影会比较明显，但是显示出来的效果不一定就好（为方便观察，我加了一个白色背景，请忽略）：
 
 ![4](https://drive.iscccc.eu.org/api/raw/?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/bitmap-font/4.png)
