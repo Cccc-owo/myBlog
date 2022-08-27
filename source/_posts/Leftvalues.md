@@ -17,7 +17,7 @@ updated: 2022-02-10 15:52:26
 
 ---
 
-![我的测试结果](https://cccc-drive.vercel.app/api?path=/Img·图床/Leftvalues/leftvalues.png&raw=true)
+![我的测试结果](https://drive.iscccc.eu.org/api?path=/Img·图床/Leftvalues/leftvalues.png&raw=true)
 
 不多说，这里是[测试网站](https://leftvalues.github.io/)。由于其托管在Github上，大陆地区打开可能较慢。
 

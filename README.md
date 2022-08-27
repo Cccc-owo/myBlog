@@ -2,7 +2,7 @@
 
 [主要分支](https://github.com/Cccc-owo/Cccc-owo-blog/)
 
-[在线管理](https://cccc-qexo.vercel.app/)
+[在线管理](https://blog-edit.iscccc.eu.org/)
 
 ***切换npm镜像源：***
 

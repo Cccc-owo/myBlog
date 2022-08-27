@@ -25,7 +25,7 @@ PS6
 
 上面两个软件，或者能代替的软件。此处随个人喜好选择。
 
-![1](https://cccc-drive.vercel.app/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/EU4%E7%9C%81%E4%BB%BD%E7%BB%86%E5%8C%96%E6%95%99%E7%A8%8B/1.jpg&raw=true)
+![1](https://drive.iscccc.eu.org/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/EU4%E7%9C%81%E4%BB%BD%E7%BB%86%E5%8C%96%E6%95%99%E7%A8%8B/1.jpg&raw=true)
 
 首先向大家简单介绍一下细化所必须的相关文件
 
@@ -45,13 +45,13 @@ PS6
 
 首先我们创建一个新的MOD文件
 
-![3](https://cccc-drive.vercel.app/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/EU4%E7%9C%81%E4%BB%BD%E7%BB%86%E5%8C%96%E6%95%99%E7%A8%8B/3.png&raw=true)
+![3](https://drive.iscccc.eu.org/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/EU4%E7%9C%81%E4%BB%BD%E7%BB%86%E5%8C%96%E6%95%99%E7%A8%8B/3.png&raw=true)
 
 直接叫map_test好了
 
 然后新建一个.mod文件
 
-![4](https://cccc-drive.vercel.app/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/EU4%E7%9C%81%E4%BB%BD%E7%BB%86%E5%8C%96%E6%95%99%E7%A8%8B/4.png&raw=true)
+![4](https://drive.iscccc.eu.org/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/EU4%E7%9C%81%E4%BB%BD%E7%BB%86%E5%8C%96%E6%95%99%E7%A8%8B/4.png&raw=true)
 
 name 是你在游戏启动器界面 你这个MOD会显示的名字
 
@@ -61,7 +61,7 @@ tags是在启动器界面鼠标移动到MOD名字的时候，会显示的标签
 
 supported_version是该MOD支持的版本 如图所示 1.28
 
-![5](https://cccc-drive.vercel.app/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/EU4%E7%9C%81%E4%BB%BD%E7%BB%86%E5%8C%96%E6%95%99%E7%A8%8B/5.png&raw=true)
+![5](https://drive.iscccc.eu.org/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/EU4%E7%9C%81%E4%BB%BD%E7%BB%86%E5%8C%96%E6%95%99%E7%A8%8B/5.png&raw=true)
 
 最简单的细化MOD 只包含这3个文件夹
 
@@ -75,7 +75,7 @@ history文件夹 只包含省份历史文件夹
 
 common和history 是后面收尾的处理工作 此处先不讲
 
-![6](https://cccc-drive.vercel.app/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/EU4%E7%9C%81%E4%BB%BD%E7%BB%86%E5%8C%96%E6%95%99%E7%A8%8B/6.png&raw=true)
+![6](https://drive.iscccc.eu.org/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/EU4%E7%9C%81%E4%BB%BD%E7%BB%86%E5%8C%96%E6%95%99%E7%A8%8B/6.png&raw=true)
 
 在map文件夹里，根据你细化程度的多少 必要文件也会相对应有所变化
 
@@ -85,7 +85,7 @@ common和history 是后面收尾的处理工作 此处先不讲
 
 首先我们打开definition文件
 
-![7](https://cccc-drive.vercel.app/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/EU4%E7%9C%81%E4%BB%BD%E7%BB%86%E5%8C%96%E6%95%99%E7%A8%8B/7.png&raw=true)
+![7](https://drive.iscccc.eu.org/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/EU4%E7%9C%81%E4%BB%BD%E7%BB%86%E5%8C%96%E6%95%99%E7%A8%8B/7.png&raw=true)
 
 打开后是这样的 我们可以看到，P社给了注释
 
@@ -99,7 +99,7 @@ x是小写
 
 往下拉到最低层
 
-![8](https://cccc-drive.vercel.app/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/EU4%E7%9C%81%E4%BB%BD%E7%BB%86%E5%8C%96%E6%95%99%E7%A8%8B/8.png&raw=true)
+![8](https://drive.iscccc.eu.org/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/EU4%E7%9C%81%E4%BB%BD%E7%BB%86%E5%8C%96%E6%95%99%E7%A8%8B/8.png&raw=true)
 
 可以看到EU41.28版本，共有4650个省份
 
@@ -109,7 +109,7 @@ x是小写
 
 你可以直接像我一样
 
-![9](https://cccc-drive.vercel.app/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/EU4%E7%9C%81%E4%BB%BD%E7%BB%86%E5%8C%96%E6%95%99%E7%A8%8B/9.png&raw=true)
+![9](https://drive.iscccc.eu.org/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/EU4%E7%9C%81%E4%BB%BD%E7%BB%86%E5%8C%96%E6%95%99%E7%A8%8B/9.png&raw=true)
 
 从5000开始
 
@@ -133,15 +133,15 @@ RGB撞车的记录 大概是1/1700W
 
 我们可以利用excal表格的随机函数 从0-255内自动生成数值
 
-![10](https://cccc-drive.vercel.app/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/EU4%E7%9C%81%E4%BB%BD%E7%BB%86%E5%8C%96%E6%95%99%E7%A8%8B/10.png&raw=true)
+![10](https://drive.iscccc.eu.org/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/EU4%E7%9C%81%E4%BB%BD%E7%BB%86%E5%8C%96%E6%95%99%E7%A8%8B/10.png&raw=true)
 
 添加好后 我们保存退出
 
-![11](https://cccc-drive.vercel.app/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/EU4%E7%9C%81%E4%BB%BD%E7%BB%86%E5%8C%96%E6%95%99%E7%A8%8B/11.png&raw=true)
+![11](https://drive.iscccc.eu.org/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/EU4%E7%9C%81%E4%BB%BD%E7%BB%86%E5%8C%96%E6%95%99%E7%A8%8B/11.png&raw=true)
 
 打开default
 
-![12](https://cccc-drive.vercel.app/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/EU4%E7%9C%81%E4%BB%BD%E7%BB%86%E5%8C%96%E6%95%99%E7%A8%8B/12.png&raw=true)
+![12](https://drive.iscccc.eu.org/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/EU4%E7%9C%81%E4%BB%BD%E7%BB%86%E5%8C%96%E6%95%99%E7%A8%8B/12.png&raw=true)
 
 把最高省份ID 改为5001
 
@@ -165,19 +165,19 @@ RGB撞车的记录 大概是1/1700W
 
 设定好5001后 保存文件
 
-![13](https://cccc-drive.vercel.app/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/EU4%E7%9C%81%E4%BB%BD%E7%BB%86%E5%8C%96%E6%95%99%E7%A8%8B/13.jpg&raw=true)
+![13](https://drive.iscccc.eu.org/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/EU4%E7%9C%81%E4%BB%BD%E7%BB%86%E5%8C%96%E6%95%99%E7%A8%8B/13.jpg&raw=true)
 
 此处输入ID为5000的省份RGB数值
 
-![14](https://cccc-drive.vercel.app/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/EU4%E7%9C%81%E4%BB%BD%E7%BB%86%E5%8C%96%E6%95%99%E7%A8%8B/14.png&raw=true)
+![14](https://drive.iscccc.eu.org/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/EU4%E7%9C%81%E4%BB%BD%E7%BB%86%E5%8C%96%E6%95%99%E7%A8%8B/14.png&raw=true)
 
 我们就画个松江（上海）出来吧
 
-![15](https://cccc-drive.vercel.app/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/EU4%E7%9C%81%E4%BB%BD%E7%BB%86%E5%8C%96%E6%95%99%E7%A8%8B/15.png&raw=true)
+![15](https://drive.iscccc.eu.org/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/EU4%E7%9C%81%E4%BB%BD%E7%BB%86%E5%8C%96%E6%95%99%E7%A8%8B/15.png&raw=true)
 
 PS选择好画笔工具 选择铅笔工具
 
-![16](https://cccc-drive.vercel.app/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/EU4%E7%9C%81%E4%BB%BD%E7%BB%86%E5%8C%96%E6%95%99%E7%A8%8B/16.png&raw=true)
+![16](https://drive.iscccc.eu.org/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/EU4%E7%9C%81%E4%BB%BD%E7%BB%86%E5%8C%96%E6%95%99%E7%A8%8B/16.png&raw=true)
 
 然后拉一条线
 
@@ -185,11 +185,11 @@ PS选择好画笔工具 选择铅笔工具
 
 这里就随意画了
 
-![17](https://cccc-drive.vercel.app/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/EU4%E7%9C%81%E4%BB%BD%E7%BB%86%E5%8C%96%E6%95%99%E7%A8%8B/17.png&raw=true)
+![17](https://drive.iscccc.eu.org/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/EU4%E7%9C%81%E4%BB%BD%E7%BB%86%E5%8C%96%E6%95%99%E7%A8%8B/17.png&raw=true)
 
 选择魔棒工具
 
-![18](https://cccc-drive.vercel.app/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/EU4%E7%9C%81%E4%BB%BD%E7%BB%86%E5%8C%96%E6%95%99%E7%A8%8B/18.png&raw=true)
+![18](https://drive.iscccc.eu.org/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/EU4%E7%9C%81%E4%BB%BD%E7%BB%86%E5%8C%96%E6%95%99%E7%A8%8B/18.png&raw=true)
 
 这里这样设置
 
@@ -197,7 +197,7 @@ PS选择好画笔工具 选择铅笔工具
 
 不勾选消除锯齿 是为了防止魔棒选取的时候会多选择像素点
 
-![19](https://cccc-drive.vercel.app/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/EU4%E7%9C%81%E4%BB%BD%E7%BB%86%E5%8C%96%E6%95%99%E7%A8%8B/19.png&raw=true)
+![19](https://drive.iscccc.eu.org/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/EU4%E7%9C%81%E4%BB%BD%E7%BB%86%E5%8C%96%E6%95%99%E7%A8%8B/19.png&raw=true)
 
 快捷键是alt+del
 
@@ -207,7 +207,7 @@ PS选择好画笔工具 选择铅笔工具
 
 画好后 我们点保存 退出
 
-![20](https://cccc-drive.vercel.app/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/EU4%E7%9C%81%E4%BB%BD%E7%BB%86%E5%8C%96%E6%95%99%E7%A8%8B/20.png&raw=true)
+![20](https://drive.iscccc.eu.org/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/EU4%E7%9C%81%E4%BB%BD%E7%BB%86%E5%8C%96%E6%95%99%E7%A8%8B/20.png&raw=true)
 
 打开area文件
 
@@ -231,7 +231,7 @@ area文件 就是游戏中的地区 的概念
 
 苏州的ID是1822 松江在苏州旁边
 
-![21](https://cccc-drive.vercel.app/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/EU4%E7%9C%81%E4%BB%BD%E7%BB%86%E5%8C%96%E6%95%99%E7%A8%8B/21.png&raw=true)
+![21](https://drive.iscccc.eu.org/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/EU4%E7%9C%81%E4%BB%BD%E7%BB%86%E5%8C%96%E6%95%99%E7%A8%8B/21.png&raw=true)
 
 我们直接搜索1822
 
@@ -245,7 +245,7 @@ area文件 就是游戏中的地区 的概念
 
 打开continent
 
-![22](https://cccc-drive.vercel.app/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/EU4%E7%9C%81%E4%BB%BD%E7%BB%86%E5%8C%96%E6%95%99%E7%A8%8B/22.png&raw=true)
+![22](https://drive.iscccc.eu.org/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/EU4%E7%9C%81%E4%BB%BD%E7%BB%86%E5%8C%96%E6%95%99%E7%A8%8B/22.png&raw=true)
 
 找到亚洲 把5000填进去
 
@@ -259,7 +259,7 @@ terrain可不填，不填则由系统随机分配省份的地形
 
 依旧是找到1822
 
-![23](https://cccc-drive.vercel.app/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/EU4%E7%9C%81%E4%BB%BD%E7%BB%86%E5%8C%96%E6%95%99%E7%A8%8B/23.png&raw=true)
+![23](https://drive.iscccc.eu.org/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/EU4%E7%9C%81%E4%BB%BD%E7%BB%86%E5%8C%96%E6%95%99%E7%A8%8B/23.png&raw=true)
 
 我们发现1822是被归属到农田地形的 那我们就把5000填进去吧
 
@@ -267,7 +267,7 @@ terrain可不填，不填则由系统随机分配省份的地形
 
 依旧是找到1822
 
-![24](https://cccc-drive.vercel.app/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/EU4%E7%9C%81%E4%BB%BD%E7%BB%86%E5%8C%96%E6%95%99%E7%A8%8B/24.png&raw=true)
+![24](https://drive.iscccc.eu.org/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/EU4%E7%9C%81%E4%BB%BD%E7%BB%86%E5%8C%96%E6%95%99%E7%A8%8B/24.png&raw=true)
 
 1822 苏州 省份 被归属到中度季风区
 
@@ -295,7 +295,7 @@ terrain可不填，不填则由系统随机分配省份的地形
 
 现在我们讲讲细化的收尾工作
 
-![25](https://cccc-drive.vercel.app/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/EU4%E7%9C%81%E4%BB%BD%E7%BB%86%E5%8C%96%E6%95%99%E7%A8%8B/25.png&raw=true)
+![25](https://drive.iscccc.eu.org/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/EU4%E7%9C%81%E4%BB%BD%E7%BB%86%E5%8C%96%E6%95%99%E7%A8%8B/25.png&raw=true)
 
 在省份历史文件夹里头，我们新建一个txt文件
 
@@ -305,7 +305,7 @@ terrain可不填，不填则由系统随机分配省份的地形
 
 这里我们直接沿用1822 苏州的省份文件
 
-![26](https://cccc-drive.vercel.app/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/EU4%E7%9C%81%E4%BB%BD%E7%BB%86%E5%8C%96%E6%95%99%E7%A8%8B/26.png&raw=true)
+![26](https://drive.iscccc.eu.org/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/EU4%E7%9C%81%E4%BB%BD%E7%BB%86%E5%8C%96%E6%95%99%E7%A8%8B/26.png&raw=true)
 
 具体代码是什么意思 此处我不作介绍 自行翻阅维基百科
 
@@ -313,7 +313,7 @@ terrain可不填，不填则由系统随机分配省份的地形
 
 我们将内容复制到5000上
 
-其中 capital 就是 ![27](https://cccc-drive.vercel.app/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/EU4%E7%9C%81%E4%BB%BD%E7%BB%86%E5%8C%96%E6%95%99%E7%A8%8B/27.jpg&raw=true)
+其中 capital 就是 ![27](https://drive.iscccc.eu.org/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/EU4%E7%9C%81%E4%BB%BD%E7%BB%86%E5%8C%96%E6%95%99%E7%A8%8B/27.jpg&raw=true)
 
 最底下那个
 
@@ -323,7 +323,7 @@ terrain可不填，不填则由系统随机分配省份的地形
 
 我们在5000的文件中，改成松江或者上海 随你
 
-![28](https://cccc-drive.vercel.app/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/EU4%E7%9C%81%E4%BB%BD%E7%BB%86%E5%8C%96%E6%95%99%E7%A8%8B/28.png&raw=true)
+![28](https://drive.iscccc.eu.org/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/EU4%E7%9C%81%E4%BB%BD%E7%BB%86%E5%8C%96%E6%95%99%E7%A8%8B/28.png&raw=true)
 
 这俩文件 分别是贸易公司和贸易区归属
 
@@ -339,7 +339,7 @@ steam用户可以直接在EU4的启动项中输入【-nudge】，在进入游戏
 
 nudge调整好的positions文件放在C盘文档的EU4/map 里 覆盖你的MOD的同名文件就可以了
 
-![29](https://cccc-drive.vercel.app/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/EU4%E7%9C%81%E4%BB%BD%E7%BB%86%E5%8C%96%E6%95%99%E7%A8%8B/29.png&raw=true)
+![29](https://drive.iscccc.eu.org/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/EU4%E7%9C%81%E4%BB%BD%E7%BB%86%E5%8C%96%E6%95%99%E7%A8%8B/29.png&raw=true)
 
 新建一个localisation文件夹
 
@@ -349,27 +349,27 @@ nudge调整好的positions文件放在C盘文档的EU4/map 里 覆盖你的MOD�
 
 可以直接从EU4的localisation文件夹汇总复制一个过来
 
-![30](https://cccc-drive.vercel.app/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/EU4%E7%9C%81%E4%BB%BD%E7%BB%86%E5%8C%96%E6%95%99%E7%A8%8B/30.png&raw=true)
+![30](https://drive.iscccc.eu.org/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/EU4%E7%9C%81%E4%BB%BD%E7%BB%86%E5%8C%96%E6%95%99%E7%A8%8B/30.png&raw=true)
 
 EU4的是这俩文件
 
-![31](https://cccc-drive.vercel.app/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/EU4%E7%9C%81%E4%BB%BD%E7%BB%86%E5%8C%96%E6%95%99%E7%A8%8B/31.png&raw=true)
+![31](https://drive.iscccc.eu.org/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/EU4%E7%9C%81%E4%BB%BD%E7%BB%86%E5%8C%96%E6%95%99%E7%A8%8B/31.png&raw=true)
 
 随便你取什么名字
 
 只要你自己能知道该文件是用来干嘛的
 
-![32](https://cccc-drive.vercel.app/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/EU4%E7%9C%81%E4%BB%BD%E7%BB%86%E5%8C%96%E6%95%99%E7%A8%8B/32.png&raw=true)
+![32](https://drive.iscccc.eu.org/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/EU4%E7%9C%81%E4%BB%BD%E7%BB%86%E5%8C%96%E6%95%99%E7%A8%8B/32.png&raw=true)
 
 省份的名词 本地化格式是这样的
 
-![33](https://cccc-drive.vercel.app/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/EU4%E7%9C%81%E4%BB%BD%E7%BB%86%E5%8C%96%E6%95%99%E7%A8%8B/33.png&raw=true)
+![33](https://drive.iscccc.eu.org/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/EU4%E7%9C%81%E4%BB%BD%E7%BB%86%E5%8C%96%E6%95%99%E7%A8%8B/33.png&raw=true)
 
 我们完全不需要这么多，一个就够了
 
 省份的ID命名也是如此
 
-![34](https://cccc-drive.vercel.app/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/EU4%E7%9C%81%E4%BB%BD%E7%BB%86%E5%8C%96%E6%95%99%E7%A8%8B/34.png&raw=true)
+![34](https://drive.iscccc.eu.org/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/EU4%E7%9C%81%E4%BB%BD%E7%BB%86%E5%8C%96%E6%95%99%E7%A8%8B/34.png&raw=true)
 
 保存后注意查看编码是不是UTF-8-BOM
 
@@ -381,7 +381,7 @@ yml文件都是以该编码保存
 
 我们需要去[云汉化平台](https://paratranz.cn/utilities/converter)进行文件转码
 
-![35](https://cccc-drive.vercel.app/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/EU4%E7%9C%81%E4%BB%BD%E7%BB%86%E5%8C%96%E6%95%99%E7%A8%8B/35.jpg&raw=true)
+![35](https://drive.iscccc.eu.org/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/EU4%E7%9C%81%E4%BB%BD%E7%BB%86%E5%8C%96%E6%95%99%E7%A8%8B/35.jpg&raw=true)
 
 直接输入中文汉字 注意格式
 
@@ -389,11 +389,11 @@ yml文件都是以该编码保存
 
 就是XXXX:0 "汉字"这种格式
 
-![36](https://cccc-drive.vercel.app/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/EU4%E7%9C%81%E4%BB%BD%E7%BB%86%E5%8C%96%E6%95%99%E7%A8%8B/36.png&raw=true)
+![36](https://drive.iscccc.eu.org/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/EU4%E7%9C%81%E4%BB%BD%E7%BB%86%E5%8C%96%E6%95%99%E7%A8%8B/36.png&raw=true)
 
 这里直接转码
 
-![37](https://cccc-drive.vercel.app/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/EU4%E7%9C%81%E4%BB%BD%E7%BB%86%E5%8C%96%E6%95%99%E7%A8%8B/37.png&raw=true)
+![37](https://drive.iscccc.eu.org/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/EU4%E7%9C%81%E4%BB%BD%E7%BB%86%E5%8C%96%E6%95%99%E7%A8%8B/37.png&raw=true)
 
 将乱码复制回去
 
@@ -403,7 +403,7 @@ yml文件都是以该编码保存
 
 可以使用云汉化平台的工具
 
-![38](https://cccc-drive.vercel.app/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/EU4%E7%9C%81%E4%BB%BD%E7%BB%86%E5%8C%96%E6%95%99%E7%A8%8B/38.png&raw=true)
+![38](https://drive.iscccc.eu.org/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/EU4%E7%9C%81%E4%BB%BD%E7%BB%86%E5%8C%96%E6%95%99%E7%A8%8B/38.png&raw=true)
 
 这东西我相信大家都是看一眼就能学会的
 
@@ -411,25 +411,25 @@ yml文件都是以该编码保存
 
 现在我们进游戏看看效果
 
-![39](https://cccc-drive.vercel.app/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/EU4%E7%9C%81%E4%BB%BD%E7%BB%86%E5%8C%96%E6%95%99%E7%A8%8B/39.jpg&raw=true)
+![39](https://drive.iscccc.eu.org/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/EU4%E7%9C%81%E4%BB%BD%E7%BB%86%E5%8C%96%E6%95%99%E7%A8%8B/39.jpg&raw=true)
 
 我们可看到 松江已经汉化了
 
 另外nudge模式可以修改贸易路线
 
-![40](https://cccc-drive.vercel.app/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/EU4%E7%9C%81%E4%BB%BD%E7%BB%86%E5%8C%96%E6%95%99%E7%A8%8B/40.jpg&raw=true)
+![40](https://drive.iscccc.eu.org/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/EU4%E7%9C%81%E4%BB%BD%E7%BB%86%E5%8C%96%E6%95%99%E7%A8%8B/40.jpg&raw=true)
 
 点击保存后
 
 C盘EU4文件夹会生成common文件夹和map文件夹
 
-![41](https://cccc-drive.vercel.app/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/EU4%E7%9C%81%E4%BB%BD%E7%BB%86%E5%8C%96%E6%95%99%E7%A8%8B/41.png&raw=true)
+![41](https://drive.iscccc.eu.org/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/EU4%E7%9C%81%E4%BB%BD%E7%BB%86%E5%8C%96%E6%95%99%E7%A8%8B/41.png&raw=true)
 
 将这俩文件剪切到MOD的相对应文件中
 
 重开游戏
 
-![42](https://cccc-drive.vercel.app/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/EU4%E7%9C%81%E4%BB%BD%E7%BB%86%E5%8C%96%E6%95%99%E7%A8%8B/42.jpg&raw=true)
+![42](https://drive.iscccc.eu.org/api?path=/Img%C2%B7%E5%9B%BE%E5%BA%8A/EU4%E7%9C%81%E4%BB%BD%E7%BB%86%E5%8C%96%E6%95%99%E7%A8%8B/42.jpg&raw=true)
 
 可以看到 已经完全没有问题了
 

@@ -176,7 +176,7 @@ fastboot boot <recovery_filename>.img
 
 7. 当你成功安装了一切，点击屏幕左上方的后退箭头，然后点击 "Reboot system now"（立即重启系统）。
 
-> 注意：第一次启动通常不超过15分钟，这取决于设备的情况。如果需要更长的时间，你可能错过了一个步骤，否则请随时[寻求帮助](https://cccc-blog.vercel.app/posts/732f9bb/#%E5%AF%BB%E6%B1%82%E5%B8%AE%E5%8A%A9)。
+> 注意：第一次启动通常不超过15分钟，这取决于设备的情况。如果需要更长的时间，你可能错过了一个步骤，否则请随时[寻求帮助](https://blog.iscccc.eu.org/posts/732f9bb/#%E5%AF%BB%E6%B1%82%E5%B8%AE%E5%8A%A9)。
 
 ## 寻求帮助
 
