@@ -23,8 +23,26 @@ links:
     avartar: https://pic.cnwiki.xyz/lincoin.jpg
     name: Lincoin林可
     blog: t-Lincoin
-    desc: 这个人没有留下什么
+    desc: A boring man.
     color: '#482659'
 placeholder: 还没想好说些什么 # 默认对友链的描述
 tip: 友链加载中～如失败请刷新重试～
 ---
+
+---
+
+想要在此处添加你的友链吗？
+
+请以如下格式在本页评论区下评论：
+
+链接： https://yoursite.com/
+
+头像： https://yoursite.com/avartar.png
+
+称呼： xxx
+
+站点名称：xxx
+
+个人描述： xxx
+
+主题色： #123456
