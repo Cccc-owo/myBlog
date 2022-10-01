@@ -19,6 +19,12 @@ links:
     blog: 云游君的小站
     desc: All at sea.
     color: '#0078e7'
+  - url: https://meta-sns.com/
+    avartar: https://pic.cnwiki.xyz/lincoin.jpg
+    name: Lincoin林可
+    blog: t-Lincoin
+    desc: 这个人没有留下什么
+    color: '#482659'
 placeholder: 还没想好说些什么 # 默认对友链的描述
 tip: 友链加载中～如失败请刷新重试～
 ---
