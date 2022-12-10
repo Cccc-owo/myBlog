@@ -1,0 +1,29 @@
+name: GitHub Pages
+
+on:
+  push:
+  #pull_request:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3.1.0
+      - uses: actions/setup-node@v3.5.1
+        with:
+          node-version: 16
+
+      - name: Install
+        run: npm install
+
+      - name: Build
+        run: npx hexo g
+
+      - name: Deploy
+        uses: JamesIves/github-pages-deploy-action@v4.4.1
+        with:
+          repository-name: Cccc-owo/Cccc-owo-Blog
+          branch: gh-pages
+          folder: public
+          token: ${{ secrets.GITHUB_TOKEN }}
+          single-commit: true

@@ -33,5 +33,5 @@ jobs:
     - name: Commit Changes & Push to Remote Branch
       run: |
         git add -A
-        git commit -m "Update dependencies by GitHub Actions"
+        git commit -m "chore: update deps"
         git push -u origin
