@@ -46,14 +46,14 @@ post_asset_folder: false
 relative_link: false
 future: true
 highlight:
-  enable: false
+  enable: true
   line_number: true
   auto_detect: false
   tab_replace: ''
   wrap: true
   hljs: false
 prismjs:
-  enable: true
+  enable: false
   preprocess: true
   line_number: true
   tab_replace: ''
@@ -99,7 +99,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: yun
+theme: fluid
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
@@ -122,8 +122,19 @@ abbrlink:
   force: false #enable force mode,in this mode, the plugin will ignore the cache, and calc the abbrlink for every post even it already had abbrlink.
 
 sitemap:
-  path: /sitemap.xml
+  path: 
+    - sitemap.xml
+    - sitemap.txt
   template: ./sitemap_template.xml
+  template_txt: ./sitemap_template.txt
   rel: false
   tags: true
   categories: true
+
+search:
+  path: search.xml
+  field: post
+  content: true
+  template: ./search.xml
+
+all_minifier: true

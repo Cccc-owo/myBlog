@@ -9,8 +9,6 @@ categories:
 comments: true
 sitemap: true
 abbrlink:
-#hide: true
-#hide: index
 ---
 
 <!-- more -->
