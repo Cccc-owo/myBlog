@@ -1,6 +1,6 @@
-# 博客源码
+# My Blog
 
-[主要分支](https://blog.iscccc.eu.org)
+[远程仓库](https://github.com/Cccc-owo/blog.iscccc.eu.org)
 
 [在线管理](https://blog-edit.iscccc.eu.org/)
 
