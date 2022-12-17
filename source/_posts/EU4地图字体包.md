@@ -13,13 +13,16 @@ updated: 2022-12-17 10:03:29
 
 适用于 EU4 （风云世纪两千年模组）的地图字体包
 
+下载：[OneDrive](https://drive.iscccc.eu.org/zh-CN/%F0%9F%8E%AEGames%C2%B7%E6%B8%B8%E6%88%8F/EU4/%E5%9C%B0%E5%9B%BE%E5%AD%97%E4%BD%93%E5%8C%85/) / [蓝奏云](https://cycraft.lanzoue.com/b0btdmcjc
+)提取密码:fysjlqn
+
 <!--more-->
 
 ---
 
 # 地图字体包
 
-使用方法：与两千年的覆盖补丁同理
+使用方法：（与两千年的覆盖补丁同理）任选其一覆盖 mod 即可
 
 适用于 EU4
 
