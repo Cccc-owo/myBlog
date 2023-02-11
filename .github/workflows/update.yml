@@ -28,6 +28,7 @@ jobs:
         npm install -g npm-check-updates
         ncu -u
         npm update
+        npx vp-helpe
         npm install
     - uses: fregante/setup-git-user@v1.1.0
     - name: Commit Changes & Push to Remote Branch
