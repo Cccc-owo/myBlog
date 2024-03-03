@@ -47,7 +47,7 @@ custom_css:
 # 网页访问统计
 # Analysis of website visitors
 web_analytics:  # 网页访问统计
-  enable: false
+  enable: true
 
   # 遵循访客浏览器"请勿追踪"的设置，如果开启则不统计其访问
   # Follow the "Do Not Track" setting of the visitor's browser
@@ -57,7 +57,7 @@ web_analytics:  # 网页访问统计
   # 百度统计的 Key，值需要获取下方链接中 `hm.js?` 后边的字符串
   # Baidu analytics, get the string behind `hm.js?`
   # See: https://tongji.baidu.com/sc-web/10000033910/home/site/getjs?siteId=13751376
-  baidu:
+  baidu: 280cf6b1ec361c884554f8869f9eb3c4
 
   # Google 统计的 Tracking ID
   # Google analytics, set Tracking ID
@@ -804,8 +804,8 @@ links:
   items:
     - {
       title: "一条咸鱼与狗的博客",
-      intro: "心灵的伤口，是时间无法抹平的",
-      link: "https://purefish.cn/",
+      intro: "重要的是结果吗？不，或许是过程",
+      link: "https://onefish.cc/",
       avatar: "/links/icon/3630190350.webp"
     }
     - {
@@ -813,12 +813,6 @@ links:
       intro: "All at sea.",
       link: "https://yunyoujun.cn",
       avatar: "https://www.yunyoujun.cn/images/avatar.jpg"
-    }
-    - {
-      title: "t-lincoin",
-      intro: "A boring man.",
-      link: "https://meta-sns.com/",
-      avatar: "https://pic.cnwiki.xyz/lincoin.jpg"
     }
 
   # 当成员头像加载失败时，替换为指定图片
